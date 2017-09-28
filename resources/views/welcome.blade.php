@@ -66,6 +66,7 @@
     </head>
     <body>
         <div class="flex-center position-ref full-height">
+        	merhaba
             @if (Route::has('login'))
                 <div class="top-right links">
                     @auth
